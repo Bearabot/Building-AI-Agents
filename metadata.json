@@ -1,0 +1,6 @@
+{
+  "name": "Pro-Market Ledger",
+  "description": "Real-time global financial markets dashboard, indices tracker, interactive technical charting, and AI market insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
